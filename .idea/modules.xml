@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OperatingSystem/OperatingSystem.iml" filepath="$PROJECT_DIR$/OperatingSystem/OperatingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_structure.iml" filepath="$PROJECT_DIR$/data_structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparsearray/sparsearray.iml" filepath="$PROJECT_DIR$/sparsearray/sparsearray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+    </modules>
+  </component>
+</project>
